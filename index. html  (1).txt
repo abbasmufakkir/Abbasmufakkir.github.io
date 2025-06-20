@@ -1,0 +1,17 @@
+
+```html
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>عباس مفکر</title>
+</head>
+<body style="font-family: Tahoma; text-align: center; direction: rtl;">
+  <h1>به وب‌سایت رسمی عباس مفکر خوش آمدید</h1>
+  <p>متفکر، فرهنگی و فعال اجتماعی</p>
+  <hr>
+  <p>ایمیل: abbasmufakkir2018@gmail.com</p>
+  <p>واتساپ: 0093794035998</p>
+  <p>آدرس: بدخشان - ولسوالی جرم</p>
+  <p>فیسبوک: facebook.com/abbasmufakkir</p>
+</body>
