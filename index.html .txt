@@ -1,0 +1,22 @@
+- [x] ```html
+- [x] <!DOCTYPE html>
+- [x] <html lang="fa">
+- [x] <head>
+- [x]   <meta charset="UTF-8">
+- [x]   <title>عباس مفکر | Abbas Mufakkir</title>
+- [x]   <style>
+- [x]     body { font-family: Tahoma, sans-serif; background-color: #f4f4f4; padding: 20px; direction: rtl; }
+- [x]     .container { background: white; padding: 20px; max-width: 600px; margin: auto; border-radius: 10px; box-shadow: 0 0 10px #aaa; }
+- [x]     img { max-width: 150px; border-radius: 50%; display: block; margin: auto; }
+- [x]     h1, h2, p { text-align: center; }
+- [x]     a { color: #0077cc; text-decoration: none; }
+- [x]   </style>
+- [x] </head>
+- [x] <body>
+- [x]   <div class="container">
+- [x]     <img src="https://i.imgur.com/r3qZtkp.jpg" alt="Abbas Mufakkir">
+- [x]     <h1>عباس مفکر</h1>
+- [x]     <h2>مفکر، نویسنده و فعال فرهنگی</h2>
+- [x]     <p><strong>ایمیل:</strong> <a href="mailto:abbasmufakkir2018@gmail.com">abbasmufakkir2018@gmail.com</a></p>
+- [x]     <p><strong>واتساپ:</strong> <a href="https://wa.me/93794035998" target="_blank">+93 794 035 998</a></p>
+- [x]     <p><strong>فیسبوک:</strong> <a href="https://facebook.com/abbasmufakkir" target="_blank">abbasmufakkir</a></p>
